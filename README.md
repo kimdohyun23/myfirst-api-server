@@ -52,3 +52,5 @@ kubectl apply -f k8s/service.yaml
 - Liveness/Readiness probe는 Actuator의 `/actuator/health/liveness`, `/actuator/health/readiness`를 사용합니다.
 
 test README.md
+
+touch README.md
